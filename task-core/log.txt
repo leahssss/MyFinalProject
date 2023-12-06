@@ -1,0 +1,6 @@
+/favicon.ico.GET started at 2023-12-06 15:57:38.325
+/favicon.ico.GET ended at 101 ms. UserId: unknown
+/StoreManager/Login.POST started at 2023-12-06 15:57:45.296
+/StoreManager/Login.POST ended at 4 ms. UserId: unknown
+/Tasks.GET started at 2023-12-06 15:57:45.325
+/Tasks.GET ended at 6 ms. UserId: unknown
